@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @hastyFerret
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @hebferrer
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning all i can!
+- 📫 You can reach me at https://www.linkedin.com/in/heberto/
 
 <!---
-hastyFerret/hastyFerret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hebferrer/hastyFerret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
